@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/17 12:43:45.000.846,=C:\Users\Valeriano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/17 12:44:19.000.333,D:\SES\DelphiXE\temp\TestSqLite4\Unit2.pas=C:\Users\Valeriano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/17 12:44:19.000.333,D:\SES\DelphiXE\temp\TestSqLite4\Unit2.fmx=C:\Users\Valeriano\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/12/17 12:44:28.000.074,D:\SES\DelphiXE\temp\TestSqLite4\TestSqLite_4.dproj=C:\Users\Valeriano\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/12/17 12:44:44.000.745,D:\SES\DelphiXE\temp\TestSqLite4\Unit2.pas=</Transaction>
+    <Transaction>2017/12/17 12:44:59.000.141,=D:\SES\DelphiXE\temp\TestSqLite4\Main.pas</Transaction>
+    <Transaction>2017/12/17 15:08:44.000.856,=D:\SES\DelphiXE\temp\TestSqLite4\Materiale.s3db</Transaction>
+    <Transaction>2017/12/17 20:51:56.000.928,D:\SES\DelphiXE\temp\TestSqLite4\TestSqLite_4.dproj=D:\SES\DelphiXE\temp\TestSqLite4\TestSqLite4.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="c49eee31"/>
+	</ActiveMobileDevice>
+</BorlandProject>
